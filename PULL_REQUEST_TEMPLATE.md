@@ -1,9 +1,9 @@
 ## 📋 Submission Information
 
-**Name:** [Your Full Name]  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile] _(optional)_  
-**Submission Date:** [YYYY-MM-DD]
+**Name:** Ahmet Talha Can 
+**Email:** cantalha4141@gmail.com 
+**LinkedIn:** https://www.linkedin.com/in/ahmet-talha-can/
+**Submission Date:** 2025-11-10
 
 ---
 
@@ -11,17 +11,17 @@
 
 Please confirm you've included all required items:
 
-- [ ] **Report** (PDF, max 5 pages)
-  - [ ] Section 1: Incident Analysis
-  - [ ] Section 2: Architecture Review
-  - [ ] Section 3: Response & Remediation
+- [x] **Report** (PDF, max 5 pages)
+  - [x] Section 1: Incident Analysis
+  - [x] Section 2: Architecture Review
+  - [x] Section 3: Response & Remediation
   
-- [ ] **Video Presentation** (10-15 minutes)
-  - [ ] Link provided in `video_link.md`
-  - [ ] Video is accessible (tested in incognito)
-  - [ ] Duration is within guidelines
+- [x] **Video Presentation** (10-15 minutes)
+  - [x] Link provided in `video_link.md`
+  - [x] Video is accessible (tested in incognito)
+  - [x] Duration is within guidelines
 
-- [ ] **File Structure**
+- [x] **File Structure**
 ```
   submissions/firstname-lastname/
   ├── report.pdf
@@ -33,17 +33,17 @@ Please confirm you've included all required items:
 
 ## 📊 Self-Assessment
 
-**Time spent on this lab:** Approximately ___ hours
+**Time spent on this lab:** Approximately __15_ hours
 
 **Tools used:**
-- Log analysis: ___________
-- Diagrams: ___________
-- Video recording: ___________
+- Log analysis: _____4______
+- Diagrams: ___2________
+- Video recording: ___2________
 
 **Confidence level:**
 - [ ] Very confident in my analysis
 - [ ] Confident but some uncertainties
-- [ ] Attempted my best with available knowledge
+- [x] Attempted my best with available knowledge
 
 ---
 
@@ -51,35 +51,34 @@ Please confirm you've included all required items:
 
 _Briefly describe your approach and key findings:_
 
-[Write here]
+Log record analysis, attack vector mapping, root cause detection, and permanent solution prioritization were identified.
 
 ---
 
 ## 🔍 Key Findings Highlight
 
 **Main attack vectors identified:**
-1. ___________
-2. ___________
-3. ___________
+1. _Broken access control__________
+2. _Sql injection__________
+3. _Email Phishing_________
 
 **Most critical vulnerability:**
-___________
+_Broken Access Control_________
 
 **Top recommendation:**
-___________
+_The object-level authorization module should be integrated into all sensitive API endpoints (especially those containing resource IDs like /api/v1/portfolio/{account_id}).__________
 
 ---
 
 ## 💭 Challenges & Learnings
 
 **What was most challenging?**
-[Write here]
+Write a report
 
 **What did you learn?**
-[Write here]
-
+Everything I did, I learned for the first time
 **What would you do differently?**
-[Write here]
+I didn't want so many submission files
 
 ---
 
@@ -94,14 +93,14 @@ Any context, assumptions, or additional information you'd like evaluators to kno
 ## ⚖️ Declaration
 
 I declare that:
-- [ ] This work is entirely my own
-- [ ] I have not copied from other submissions or answer keys
-- [ ] I have not modified the provided log files
-- [ ] All sources and tools are properly attributed
-- [ ] I understand plagiarism results in disqualification
+- [x] This work is entirely my own
+- [x] I have not copied from other submissions or answer keys
+- [x] I have not modified the provided log files
+- [x] All sources and tools are properly attributed
+- [x] I understand plagiarism results in disqualification
 
-**Signature:** [Your Name]  
-**Date:** [YYYY-MM-DD]
+**Signature:** Ahmet Talha Can
+**Date:** 2025-11-10
 
 ---
 
