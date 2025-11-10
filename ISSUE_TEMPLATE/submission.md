@@ -11,7 +11,7 @@ assignees: ''
 **Full Name:** Ahmet Talha Can
 **Email:**  cantalha4141@gmail.com
 **LinkedIn:** (https://www.linkedin.com/in/ahmet-talha-can/)
-**Location:** _(optional)_
+**Location:** Kocaeli
 **Submission Date:** 10.11.2025
 
 ---
@@ -20,17 +20,15 @@ assignees: ''
 
 **Option A: Attached Files**
 - Report PDF: [Attach here]
-- Video link:
 
 **Option B: External Links**
-- Report: [Google Drive / Dropbox link]
 - Video: (https://www.loom.com/share/42723a378de348ecbf936300863ca5af)
 
 ---
 
 ## ⏱️ Time Tracking
 
-**Total time spent:** ___ hours
+**Total time spent:** _15__ hours
 
 **Breakdown:**
 - Log analysis: _4__ hours
@@ -115,7 +113,7 @@ It was a wonderful experience for me. I learned how to write reports during my i
 - [ ] GitHub
 
 **Best time to reach you:**
-
+Everyday after 10am
 
 ---
 
