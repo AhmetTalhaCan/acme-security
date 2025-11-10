@@ -84,10 +84,10 @@
 ### Prerequisites
 
 Before starting, make sure you have:
-- [ ] A GitHub account ([sign up here](https://github.com/signup) if needed)
-- [ ] Git installed on your computer ([download here](https://git-scm.com/downloads))
-- [ ] Your report PDF ready
-- [ ] Your video uploaded and link ready
+- [x] A GitHub account ([sign up here](https://github.com/signup) if needed)
+- [x] Git installed on your computer ([download here](https://git-scm.com/downloads))
+- [x] Your report PDF ready
+- [x] Your video uploaded and link ready
 
 ---
 
