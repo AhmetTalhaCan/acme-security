@@ -1,7 +1,7 @@
 ---
 name: Lab Submission
 about: Submit your security incident lab analysis
-title: '[SUBMISSION] Ahmet Talha Can - Security Incident Lab'
+title: 'Ahmet Talha Can - Security Incident Lab'
 labels: submission
 assignees: ''
 ---
