@@ -12,7 +12,7 @@ assignees: ''
 **Email:**  cantalha4141@gmail.com
 **LinkedIn:** (https://www.linkedin.com/in/ahmet-talha-can/)
 **Location:** Kocaeli
-**Submission Date:** 10.11.2025
+**Submission Date:** 2025-11-10
 
 ---
 
@@ -122,7 +122,7 @@ Everyday after 10am
 I declare that this submission is my original work and I have followed all guidelines.
 
 **Name:** Ahmet Talha Can
-**Date:** 10.11.2025
+**Date:** 2025-11-10
 
 ---
 
